@@ -1,7 +1,7 @@
 
 # Memory Game
 
-Jogo de memória Rick e Morty criado com HTML, CSS e JS.
+Jogo de memória de Rick e Morty construído com HTML, CSS e JS.
 
 
 ## Referência
