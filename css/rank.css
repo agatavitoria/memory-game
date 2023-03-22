@@ -43,6 +43,7 @@ header {
 .empty {
     font-size: 1.2em;
     padding: 40px 20px;
+    margin: auto;
     text-align: center;
     line-height: 1.9em;
 }
